@@ -1,0 +1,22 @@
+
+.css-cs54ug-MuiButtonBase-root-MuiTab-root.Mui-selected{
+    background: rgba(255, 255, 255, 1);
+    font-family: 'Poppins';
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 19.5px;
+    text-align: center;
+    color: rgba(33, 33, 33, 1) !important;
+    border-bottom: 1px solid #000;
+    text-transform: none; 
+    border-top-left-radius : 11px; 
+    border-top-right-radius : 11px;
+}
+.css-cs54ug-MuiButtonBase-root-MuiTab-root
+{
+    border-top-left-radius : 11px; 
+    border-top-right-radius : 11px;
+}
+.css-1aquho2-MuiTabs-indicator { 
+    background-color: #ffffff  !important;;
+}

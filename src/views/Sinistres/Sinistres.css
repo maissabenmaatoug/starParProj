@@ -1,0 +1,12 @@
+.MuiTypography-colorInherit {
+    font-family: 'Poppins' !important;
+    font-size: 12px ;
+    font-weight: 400;
+    line-height: 16px; 
+}
+.MuiSelect-select.MuiSelect-select {
+    font-family: 'Poppins' !important;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px; 
+}
